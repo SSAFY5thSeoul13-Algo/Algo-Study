@@ -78,7 +78,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 			    DAUN JO : BOJ 1051 silver3 숫자정사각형
 		
 		2. 자신의 PR에서 merge 버튼을 눌러 merge 합니다. 
-		3. 자신의 PR에서 Issue로 (1)에서 생성한 Issue를 연결합니다. 
+		3. 자신의 PR에서 Issue로 (a)에서 생성한 Issue를 연결합니다. 
 			이 때 Issue가 닫히지 않았는지 확인합니다.
 		
 	- ❓ 리뷰 완료 전 새로운 문제를 풀 경우
@@ -89,9 +89,9 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 		
 		2. 새로운 문제에 대한 code와 README.md에 대한 commit을 추가 후 push합니다. 
 			이 때의 commit message는 2️⃣ Commit Convention에서 언급한 규칙에 맞게 설정합니다.
-		3. 이 때 반드시 (1)에서 생성한 branch로 push 되는지 확인합니다.
+		3. 이 때 반드시 (a)에서 생성한 branch로 push 되는지 확인합니다.
 		4. 본인 계정의 fork된 repo에서 Pull Request을 작성할 때, 
-		코드가 push된 브랜치(위에서 생성한 jodawoooon/boj-1051)에서 
+		코드가 push된 브랜치(a에서 생성한 jodawoooon/boj-1051)에서 
 		organization repo의 main 브랜치로 Pull Request를 보냅니다.
 
 <br><br>
