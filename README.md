@@ -27,9 +27,9 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 ### 2️⃣ Project Convention
 
 각 멤버별 프로젝트 구조는 다음과 같습니다
-**프로젝트이름/week번호/문제이름/...**
+**프로젝트이름/week번호/플랫폼_문제번호_레벨_문제이름/...**
 
-    jodawoooon/week15/BJ10773/...
+    jodawoooon/week15/BOJ_1051_S3_숫자정사각형/...
 
 <br>
 
