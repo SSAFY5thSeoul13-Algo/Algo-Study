@@ -49,17 +49,17 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 해당 코드를 하나의 commit으로 분리합니다.  
 이 때의 commit message는 다음과 같이 통일합니다
 		
-		 git commit -m "code : BOJ 1051 silver3 숫자정사각형"
+		 git commit -m "code : BOJ 1051 S3 숫자정사각형"
 
 	해당 코드를 수정할 때의 commit message는 다음과 같이 통일합니다.
 		
-		 git commit -m "fix : BOJ 1051 silver3 숫자정사각형"
+		 git commit -m "fix : BOJ 1051 S3 숫자정사각형"
 
 2.  코드에 대한 설명을 작성하고
 해당 문서를 하나의 commit으로 분리합니다.  
 이 때의 commit message는 다음과 같습니다.
 		
-		 git commit -m "docs : BOJ 1051 silver3 숫자정사각형"
+		 git commit -m "docs : BOJ 1051 S3 숫자정사각형"
 
 3. main README.md 파일을 수정할 때의 commit message는 다음과 같습니다.
 		
@@ -75,7 +75,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 1. Pull Request의 제목은 다음과 같이 통일합니다.
 **이름 : 문제플랫폼 문제번호 문제등급 문제제목** 
 		
-		 DAUN JO : BOJ 1051 silver3 숫자정사각형
+		 DAUN JO : BOJ 1051 S3 숫자정사각형
 		
 2. Pull Request의 comment에는 본인이 작성한 README.md의 내용을 추가합니다. 
 
