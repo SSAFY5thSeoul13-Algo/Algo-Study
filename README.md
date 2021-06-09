@@ -239,5 +239,5 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 10870 | [피보나치 수 5](https://www.acmicpc.net/problem/10870) | 수학 | bronze2 |
 | BOJ | 11068 | [회문인 수](https://www.acmicpc.net/problem/11068) | 수학 | silver5 |
 | BOJ | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 구현 | silver5 |
-| BOJ | 11578 | [단어 공부](https://www.acmicpc.net/problem/11578) | 구현 | bronze1 |
+| BOJ | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | 구현 | bronze1 |
 | BOJ | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | 수학 | bronze1 |
