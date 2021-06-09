@@ -84,7 +84,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 4. 기존에 PR을 작성 후 새로운 문제를 풀었을 경우, 새로운 문제에 대한 commit을 하기 전 다음 과정을 수행합니다.
 
 	- ❓ 코드리뷰가 완료 되었을 경우  
-	- 자신의 PR에서 merge 버튼을 눌러 merge 합니다. 
+		자신의 PR에서 merge 버튼을 눌러 merge 합니다. 
 		
 	- ❓ 리뷰 완료 전 새로운 문제를 풀 경우
 		1. 자신의 local에서 새로 푼 문제에 대한 branch를 생성합니다.  
@@ -241,5 +241,3 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 구현 | silver5 |
 | BOJ | 11578 | [단어 공부](https://www.acmicpc.net/problem/11578) | 구현 | bronze1 |
 | BOJ | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | 수학 | bronze1 |
-
-
