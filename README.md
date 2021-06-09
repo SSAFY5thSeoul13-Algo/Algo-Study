@@ -7,20 +7,20 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
  - [ ] 서울 13반 4조 조다운
  - [ ] 서울 13반 4조 조현민
  - [ ] 서울 13반 4조 최혜원
-<br>
+<br><br>
 
 ## 📌 Rule
 각자 문제를 선정하여 매주 4~12문제를 풉니다.
 매주 월요일 카카오톡 공지방에 댓글로 문제를 등록합니다.
 * ❗❗ 문제풀이 마감 : 매주 일요일 20:00 까지
 * ❕❕ 리뷰 마감 : 매주 금요일 23:59 까지
-<br>
+<br><br>
 
 ## 📌 Convention
 ###  1️⃣ Code Convention
 각 코드 별 목적을 주석으로 작성합니다.
 변수와 함수 이름 또한 역할을 알 수 있도록 간단한 주석을 덧붙입니다.
-
+<br>
 ### 2️⃣ Commit Convention
 한번에 모든 파일을 add하지 않고 type별로 분리하여 commit 합니다.
 
@@ -56,7 +56,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 5. 파일을 삭제할 경우 commit message는 다음과 같습니다
 
 	`git commit -m "remove : 삭제파일"`
-
+<br>
 
 ### 3️⃣ Review Convention
 1. Pull Request의 제목은 다음과 같이 통일합니다.
@@ -93,7 +93,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 		코드가 push된 브랜치(위에서 생성한 jodawoooon/boj-1051)에서 
 		organization repo의 main 브랜치로 Pull Request를 보냅니다.
 
-<br>
+<br><br>
 
 ## 📌 Solved Problems
 ### 🚩 week 1
@@ -231,4 +231,8 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 10773 | [제로](https://www.acmicpc.net/problem/10773) | 구현 | silver4 |
 | BOJ | 10870 | [피보나치 수 5](https://www.acmicpc.net/problem/10870) | 수학 | bronze2 |
 | BOJ | 11068 | [회문인 수](https://www.acmicpc.net/problem/11068) | 수학 | silver5 |
+| BOJ | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 구현 | silver5 |
+| BOJ | 11578 | [단어 공부](https://www.acmicpc.net/problem/11578) | 구현 | bronze1 |
+| BOJ | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | 수학 | bronze1 |
+
 
