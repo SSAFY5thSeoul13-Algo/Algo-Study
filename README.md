@@ -42,17 +42,17 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 	해당 코드를 수정할 때의 commit message는 다음과 같이 통일합니다.
 	
 	`git commit -m "fix : BOJ 1051 silver3 숫자정사각형"`
-<br>
+
 2.  코드에 대한 설명을 작성하고
 	해당 문서를 하나의 commit으로 분리합니다.
 	이 때의 commit message는 다음과 같습니다.
 	
 	`git commit -m "docs : BOJ 1051 silver3 숫자정사각형"`
-<br>	
+	
 3. main README.md 파일을 수정할 때의 commit message는 다음과 같습니다.
 
 	`git commit -m "docs : main README update"`
-<br>
+
 5. 파일을 삭제할 경우 commit message는 다음과 같습니다
 
 	`git commit -m "remove : 삭제파일"`
@@ -63,11 +63,11 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 **이름 : 문제플랫폼 문제번호 문제등급 문제제목** 
 
     `DAUN JO : BOJ 1051 silver3 숫자정사각형`
-<br>
+
 2. Pull Request의 comment에는 본인이 작성한 README.md의 내용을 추가합니다. 
-<br>
+
 3. 문제에 해당하는 유형을 선택하여 PR에 label을 attach 합니다.
-<br>
+
 4. 기존에 PR을 작성 후 새로운 문제를 풀었을 경우, 새로운 문제에 대한 commit을 하기 전 다음 과정을 수행합니다.
 
 	- ❓ 코드리뷰가 완료 되었을 경우
@@ -79,7 +79,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 		2. 자신의 PR에서 merge 버튼을 눌러 merge 합니다. 
 		3. 자신의 PR에서 Issue로 (1)에서 생성한 Issue를 연결합니다. 
 			이 때 Issue가 닫히지 않았는지 확인합니다.
-		<br>
+		
 	- ❓ 리뷰 완료 전 새로운 문제를 풀 경우
 		1. 자신의 local에서 새로 푼 문제에 대한 branch를 생성합니다.
 		이 때 branch의 이름을 **아이디/문제플랫폼-문제번호**과 같이 통일합니다.
