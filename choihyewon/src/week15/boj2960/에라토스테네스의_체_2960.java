@@ -1,4 +1,4 @@
-package week15;
+package week15.boj2960;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
