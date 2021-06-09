@@ -34,8 +34,8 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 적용 예시 ::
 1. BOJ의 1051번 숫자 정사각형 (silver3) 문제를 풀었다면
-	해당 코드를 하나의 commit으로 분리합니다.
-	이 때의 commit message는 다음과 같이 통일합니다
+해당 코드를 하나의 commit으로 분리합니다.  
+이 때의 commit message는 다음과 같이 통일합니다
 		
 		 git commit -m "code : BOJ 1051 silver3 숫자정사각형"
 
@@ -44,8 +44,8 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 		 git commit -m "fix : BOJ 1051 silver3 숫자정사각형"
 
 2.  코드에 대한 설명을 작성하고
-	해당 문서를 하나의 commit으로 분리합니다.
-	이 때의 commit message는 다음과 같습니다.
+해당 문서를 하나의 commit으로 분리합니다.  
+이 때의 commit message는 다음과 같습니다.
 		
 		 git commit -m "docs : BOJ 1051 silver3 숫자정사각형"
 
@@ -72,26 +72,26 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 4. 기존에 PR을 작성 후 새로운 문제를 풀었을 경우, 새로운 문제에 대한 commit을 하기 전 다음 과정을 수행합니다.
 
 	- ❓ 코드리뷰가 완료 되었을 경우
-		1. organization repo의 Issue에 PR로 제출한 문제에 대한 issue를 생성합니다. 
-			이 때 Issue의 제목은 PR제목의 규칙과 같이 통일합니다.
+		1. organization repo의 Issue에 PR로 제출한 문제에 대한 issue를 생성합니다.  
+		이 때 Issue의 제목은 PR제목의 규칙과 같이 통일합니다.
 		
 			    DAUN JO : BOJ 1051 silver3 숫자정사각형
 		
 		2. 자신의 PR에서 merge 버튼을 눌러 merge 합니다. 
-		3. 자신의 PR에서 Issue로 (a)에서 생성한 Issue를 연결합니다. 
+		3. 자신의 PR에서 Issue로 (a)에서 생성한 Issue를 연결합니다.  
 			이 때 Issue가 닫히지 않았는지 확인합니다.
 		
 	- ❓ 리뷰 완료 전 새로운 문제를 풀 경우
-		1. 자신의 local에서 새로 푼 문제에 대한 branch를 생성합니다.
+		1. 자신의 local에서 새로 푼 문제에 대한 branch를 생성합니다.  
 		이 때 branch의 이름을 **아이디/문제플랫폼-문제번호**과 같이 통일합니다.
 		
 			    jodawoooon/boj-1051
 		
-		2. 새로운 문제에 대한 code와 README.md에 대한 commit을 추가 후 push합니다. 
-			이 때의 commit message는 2️⃣ Commit Convention에서 언급한 규칙에 맞게 설정합니다.
+		2. 새로운 문제에 대한 code와 README.md에 대한 commit을 추가 후 push합니다.   
+		이 때의 commit message는 2️⃣ Commit Convention에서 언급한 규칙에 맞게 설정합니다.
 		3. 이 때 반드시 (a)에서 생성한 branch로 push 되는지 확인합니다.
-		4. 본인 계정의 fork된 repo에서 Pull Request을 작성할 때, 
-		코드가 push된 브랜치(a에서 생성한 jodawoooon/boj-1051)에서 
+		4. 본인 계정의 fork된 repo에서 Pull Request을 작성할 때,   
+		코드가 push된 브랜치(a에서 생성한 jodawoooon/boj-1051)에서   
 		organization repo의 main 브랜치로 Pull Request를 보냅니다.
 
 <br><br>
