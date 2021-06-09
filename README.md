@@ -88,9 +88,9 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 		
 	- ❓ 리뷰 완료 전 새로운 문제를 풀 경우
 		1. 자신의 local에서 새로 푼 문제에 대한 branch를 생성합니다.  
-		이 때 branch의 이름을 **아이디/문제플랫폼-문제번호**과 같이 통일합니다.
+		이 때 branch의 이름을 **문제플랫폼-문제번호**과 같이 생성하는 것을 권장합니다.
 		
-			    jodawoooon/boj-1051
+			    boj-1051
 		
 		2. 새로운 문제에 대한 code와 README.md에 대한 commit을 추가 후 push합니다.   
 		이 때의 commit message는 2️⃣ Commit Convention에서 언급한 규칙에 맞게 설정합니다.
