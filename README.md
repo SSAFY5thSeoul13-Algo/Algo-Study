@@ -79,7 +79,8 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 		
 2. Pull Request의 comment에는 본인이 작성한 README.md의 내용을 추가합니다. 
 
-3. 문제에 해당하는 유형을 선택하여 PR에 label을 attach 합니다.
+3. 문제에 해당하는 유형을 선택하여 PR에 label을 attach하고,   
+ 자신의 PR의 assignee에 자신을 추가 후 문제풀이 week에 해당하는 Milestones을 선택합니다.
 
 4. 기존에 PR을 작성 후 새로운 문제를 풀었을 경우, 새로운 문제에 대한 commit을 하기 전 다음 과정을 수행합니다.
 
