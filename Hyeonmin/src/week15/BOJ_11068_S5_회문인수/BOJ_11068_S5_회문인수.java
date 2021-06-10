@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 public class BOJ_11068_S5_회문인수 {
+	
 	static int T, tgt;
 	static boolean correct;
 	
