@@ -5,6 +5,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class 회문인_수_11068 {
 	static List<Integer> list;
 	public static void main(String[] args)throws Exception {
