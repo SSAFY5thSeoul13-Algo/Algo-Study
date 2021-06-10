@@ -1,4 +1,4 @@
-package week15;
+package week15.BOJ_2960_S4_에라토스테네스의;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
