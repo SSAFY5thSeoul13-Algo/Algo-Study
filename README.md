@@ -49,17 +49,17 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 해당 코드를 하나의 commit으로 분리합니다.  
 이 때의 commit message는 다음과 같이 통일합니다
 		
-		 git commit -m "code : BOJ 1051 silver3 숫자정사각형"
+		 git commit -m "code : BOJ 1051 S3 숫자정사각형"
 
 	해당 코드를 수정할 때의 commit message는 다음과 같이 통일합니다.
 		
-		 git commit -m "fix : BOJ 1051 silver3 숫자정사각형"
+		 git commit -m "fix : BOJ 1051 S3 숫자정사각형"
 
 2.  코드에 대한 설명을 작성하고
 해당 문서를 하나의 commit으로 분리합니다.  
 이 때의 commit message는 다음과 같습니다.
 		
-		 git commit -m "docs : BOJ 1051 silver3 숫자정사각형"
+		 git commit -m "docs : BOJ 1051 S3 숫자정사각형"
 
 3. main README.md 파일을 수정할 때의 commit message는 다음과 같습니다.
 		
@@ -75,29 +75,23 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 1. Pull Request의 제목은 다음과 같이 통일합니다.
 **이름 : 문제플랫폼 문제번호 문제등급 문제제목** 
 		
-		 DAUN JO : BOJ 1051 silver3 숫자정사각형
+		 DAUN JO : BOJ 1051 S3 숫자정사각형
 		
 2. Pull Request의 comment에는 본인이 작성한 README.md의 내용을 추가합니다. 
 
-3. 문제에 해당하는 유형을 선택하여 PR에 label을 attach 합니다.
+3. 문제에 해당하는 유형을 선택하여 PR에 label을 attach하고,   
+ 자신의 PR의 assignee에 자신을 추가 후 문제풀이 week에 해당하는 Milestones을 선택합니다.
 
 4. 기존에 PR을 작성 후 새로운 문제를 풀었을 경우, 새로운 문제에 대한 commit을 하기 전 다음 과정을 수행합니다.
 
-	- ❓ 코드리뷰가 완료 되었을 경우
-		1. organization repo의 Issue에 PR로 제출한 문제에 대한 issue를 생성합니다.  
-		이 때 Issue의 제목은 PR제목의 규칙과 같이 통일합니다.
-		
-			    DAUN JO : BOJ 1051 silver3 숫자정사각형
-		
-		2. 자신의 PR에서 merge 버튼을 눌러 merge 합니다. 
-		3. 자신의 PR에서 Issue로 (a)에서 생성한 Issue를 연결합니다.  
-			이 때 Issue가 닫히지 않았는지 확인합니다.
+	- ❓ 코드리뷰가 완료 되었을 경우  
+		자신의 PR에서 merge 버튼을 눌러 merge 합니다. 
 		
 	- ❓ 리뷰 완료 전 새로운 문제를 풀 경우
 		1. 자신의 local에서 새로 푼 문제에 대한 branch를 생성합니다.  
-		이 때 branch의 이름을 **아이디/문제플랫폼-문제번호**과 같이 통일합니다.
+		이 때 branch의 이름을 **문제플랫폼-문제번호**과 같이 생성하는 것을 권장합니다.
 		
-			    jodawoooon/boj-1051
+			    boj-1051
 		
 		2. 새로운 문제에 대한 code와 README.md에 대한 commit을 추가 후 push합니다.   
 		이 때의 commit message는 2️⃣ Commit Convention에서 언급한 규칙에 맞게 설정합니다.
@@ -246,5 +240,5 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 10870 | [피보나치 수 5](https://www.acmicpc.net/problem/10870) | 수학 | bronze2 |
 | BOJ | 11068 | [회문인 수](https://www.acmicpc.net/problem/11068) | 수학 | silver5 |
 | BOJ | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 구현 | silver5 |
-| BOJ | 11578 | [단어 공부](https://www.acmicpc.net/problem/11578) | 구현 | bronze1 |
+| BOJ | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | 구현 | bronze1 |
 | BOJ | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | 수학 | bronze1 |
