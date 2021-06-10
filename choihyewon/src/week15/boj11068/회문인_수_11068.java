@@ -19,8 +19,8 @@ public class 회문인_수_11068 {
 			for(int i=2; i<=64; i++) {
 				// 숫자 num을 b진법으로 변환 
 				isTrue = parse(num,i);
-				// 회문인지 아닌지 체크 
-				//isTrue = check();
+				
+				// 회문이라면 더이상 알아볼 필요가 없다!!
 				if(isTrue) {
 					break;
 				}
@@ -35,16 +35,6 @@ public class 회문인_수_11068 {
 			
 		}
 	}
-
-//	private static boolean check() {
-//		for(int i=0; i<=list.size()/2; i++) {
-//			if(list.get(i) != list.get(list.size()-i-1)) {
-//				return false;
-//			}
-//		}
-//		return true;
-//		
-//	}
 
 	private static boolean parse(int num, int b) {
 		// list 초기화 
