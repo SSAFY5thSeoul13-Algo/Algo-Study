@@ -21,7 +21,7 @@ public class 회문인_수_11068 {
 				// 숫자 num을 b진법으로 변환 
 				isTrue = parse(num,i);
 				
-				// 회문이라면 더이상 알아볼 필요가 없다!!
+				// 회문이라면 더이상 알아볼 필요가 없다!
 				if(isTrue) {
 					break;
 				}
