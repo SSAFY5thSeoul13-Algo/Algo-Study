@@ -28,12 +28,10 @@ public class Main_BJ_10870_B2_피보나치수5 {
 		fibo[0] = 0;
 		fibo[1] = 1;
 		
-		System.out.println(fibo(N));
-	}
-	private static int fibo(int n) {
-		if(n>=2&&fibo[n]==0) {
-			fibo[n] = fibo(n-1)+fibo(n-2);
+		for (int i = 2; i <= N; i++) {
+			fibo[i] = fibo[i-1] + fibo[i-2];
 		}
-		return fibo[n];
+		System.out.println(fibo[N]);
 	}
+	
 }
