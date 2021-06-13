@@ -242,3 +242,4 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | 구현 | silver5 |
 | BOJ | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | 구현 | bronze1 |
 | BOJ | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | 수학 | bronze1 |
+| BOJ | 14646 | [욱제는 결정장애야!!](https://www.acmicpc.net/problem/14646) | 구현 | silver4 |
