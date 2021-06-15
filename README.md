@@ -256,4 +256,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | 자료구조 | silver3 |
 | BOJ | 17479 | [정식당](https://www.acmicpc.net/problem/17479) | 자료구조 | silver3 |
 | BOJ | 20301 | [반전 요세푸스](https://www.acmicpc.net/problem/20301) | 자료구조 | silver4 |
-
+| BOJ | 1417 | [국회의원 선거](https://www.acmicpc.net/problem/1417) | 자료구조 | silver5 |
+| BOJ | 1764 | [듣보잡](https://www.acmicpc.net/problem/1764) | 자료구조 | silver4 |
+| BOJ | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | 자료구조 | silver5 |
+| BOJ | 12019 | [Yonsei TOTO](https://www.acmicpc.net/problem/12018) | 자료구조 | silver3 |
