@@ -23,17 +23,27 @@
 ### 풀이 과정
 HashSet과 TreeSet 2개를 활용하여 풀었습니다.  
 
+    HashSet<String> set1 = new HashSet<>();
+	TreeSet<String> set2 = new TreeSet<>();
+
+
 처음에는 ArrayList 2개를 썼다가 시간초과가 났었는데, list 대신에  
 듣도못한사람, 보도못한사람 모두 중복되는 사람이 없으므로  
 set을 사용하면 빠르게 값을 처리할 수 있습니다.    
 
 먼저  HashSet에 듣도 못한사람의 명단을 넣고  
-보도 못한 사람 중에, 듣도 못한 사람이 있다면 (HashSet에 contains된 사람)  
+
+    if(set1.contains(name)) {
+		set2.add(name);
+	}
+
+보도 못한 사람 중에, 듣도 못한 사람이 있다면
 TreeSet에 add했습니다.
 
 그리고 TreeSet은 오름차순 정렬되어 있으므로  
 TreeSet의 Size와 명단을 순서대로 StringBuilder를 이용해서 출력했습니다.  
 
+<br>
 
 ### 결과
 메모리 : 25192KB  
