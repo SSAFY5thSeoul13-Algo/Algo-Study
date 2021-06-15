@@ -35,7 +35,7 @@ public class Main_BOJ_10546_S4_배부른마라토너 {
 			map.put(name, map.get(name)-1);
 		}
 		
-		//완주자의 정보를 확인한다.
+		//완주하지 못한 한명을 찾는다.
 		for (String name : map.keySet()) {
 			if(map.get(name)!=0) {
 				System.out.println(name);
