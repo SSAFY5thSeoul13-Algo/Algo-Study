@@ -31,6 +31,6 @@ HashSet + list, TreeSet + Stack등 여러 조합을 사용해 보았으나
 
 
 ### 결과
-메모리 : 31920KB  
-시간 : 360ms
+메모리 : 47796KB  
+시간 : 496ms
  
