@@ -243,3 +243,17 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 1157 | [단어 공부](https://www.acmicpc.net/problem/1157) | 구현 | bronze1 |
 | BOJ | 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | 수학 | bronze1 |
 | BOJ | 14646 | [욱제는 결정장애야!!](https://www.acmicpc.net/problem/14646) | 구현 | silver4 |
+
+
+### 🚩 week 16
+| Type | 문제 | 제목 | 유형 | lank |
+| -- |--| -- |--|--|
+| BOJ | 10546 | [배부른 마라토너](https://www.acmicpc.net/problem/10546) | 자료구조 | silver4 |
+| BOJ | 1302 | [베스트셀러](https://www.acmicpc.net/problem/1302) | 자료구조 | silver4 |
+| BOJ | 1927 | [최소 힙](https://www.acmicpc.net/problem/1927) | 자료구조 | silver1 |
+| BOJ | 2164 | [카드2](https://www.acmicpc.net/problem/2164) | 자료구조 | silver4 |
+| BOJ | 2910 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | 자료구조 | silver3 |
+| BOJ | 10799 | [쇠막대기](https://www.acmicpc.net/problem/10799) | 자료구조 | silver3 |
+| BOJ | 17479 | [정식당](https://www.acmicpc.net/problem/17479) | 자료구조 | silver3 |
+| BOJ | 20301 | [반전 요세푸스](https://www.acmicpc.net/problem/20301) | 자료구조 | silver4 |
+
