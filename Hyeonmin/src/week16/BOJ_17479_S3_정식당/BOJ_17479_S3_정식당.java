@@ -12,7 +12,7 @@ public class BOJ_17479_S3_정식당 {
 	static int A, B, C, N;
 	static Map<String, Long> mapA = new HashMap<>();
 	static Map<String, Long> mapB = new HashMap<>();
-	static Set<String> mapC = new HashSet<>();
+	static Set<String> setC = new HashSet<>();
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -40,7 +40,7 @@ public class BOJ_17479_S3_정식당 {
 
 		//서비스 메뉴 저장
 		for (int i = 0; i < C; i++) {
-			mapC.add(br.readLine());
+			setC.add(br.readLine());
 		}
 
 		N = Integer.parseInt(br.readLine());
@@ -65,7 +65,7 @@ public class BOJ_17479_S3_정식당 {
 				priceB += mapB.get(menu);
 			}
 			//서비스 메뉴인 경우
-			else if (mapC.contains(menu)) {
+			else if (setC.contains(menu)) {
 				countC++;
 			}
 		}
