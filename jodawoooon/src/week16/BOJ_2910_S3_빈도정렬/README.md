@@ -11,7 +11,8 @@
 
 
 ### 풀이과정
-변수
+
+Node : num, cnt, idx로 구성
 N : 메세지의 길이
 C : 수열 최대값
 map : 빈도체크 할 HashMap
@@ -54,6 +55,16 @@ list : map의 key Node를 정렬하기 위한 list
 			}
 			
 		});
+4. list의 num값을 cnt만큼 sb에 붙여서 sb출력
+	
+
+	    for (Node node : list) {
+			int num = node.num;
+			int cnt = node.cnt;
+			for (int i = 0; i < cnt; i++) {
+				sb.append(num).append(" ");
+			}
+		}
 
 <br>
 
