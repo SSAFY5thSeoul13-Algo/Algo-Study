@@ -260,3 +260,13 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 1764 | [듣보잡](https://www.acmicpc.net/problem/1764) | 자료구조 | silver4 |
 | BOJ | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | 자료구조 | silver5 |
 | BOJ | 12019 | [Yonsei TOTO](https://www.acmicpc.net/problem/12018) | 자료구조 | silver3 |
+
+### 🚩 week 17
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+| Programmers | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 정렬 | level1 |
+| Programmers | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 정렬 | level2 |
+| Programmers | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | 정렬 | level2 |
+| Programmers | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 완탐 | level1 |
+| Programmers | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 완탐 | level2 |
+| Programmers | [카펫](https://programmers.co.kr/learn/courses/30/lessons/4282) | 완탐 | level2 |
