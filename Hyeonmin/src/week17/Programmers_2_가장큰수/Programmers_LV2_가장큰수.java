@@ -1,11 +1,11 @@
-package week17.Programmers_sorting_2_가장큰수;
+package week17.Programmers_2_가장큰수;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class Programmers_sorting_LV2_가장큰수 {
+public class Programmers_LV2_가장큰수 {
 	static int[] numbers = {3, 30, 34, 5, 9};
 	
 	public static void main(String[] args) {
