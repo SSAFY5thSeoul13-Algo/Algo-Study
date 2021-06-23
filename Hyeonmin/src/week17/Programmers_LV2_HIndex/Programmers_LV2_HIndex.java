@@ -1,8 +1,8 @@
-package week17.Programmers_sorting_LV2_HIndex;
+package week17.Programmers_LV2_HIndex;
 
 import java.util.Arrays;
 
-public class Programmers_sorting_LV2_HIndex {
+public class Programmers_LV2_HIndex {
 	static int[] citations = {3,0,6,1,5};
 	
 	public static void main(String[] args) {
