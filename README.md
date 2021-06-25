@@ -269,4 +269,4 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Programmers | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | 정렬 | level2 |
 | Programmers | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 완탐 | level1 |
 | Programmers | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 완탐 | level2 |
-| Programmers | [카펫](https://programmers.co.kr/learn/courses/30/lessons/4282) | 완탐 | level2 |
+| Programmers | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | 완탐 | level2 |
