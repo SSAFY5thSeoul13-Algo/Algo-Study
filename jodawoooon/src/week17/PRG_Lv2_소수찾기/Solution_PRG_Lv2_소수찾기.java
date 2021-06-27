@@ -25,13 +25,13 @@ public class Solution_PRG_Lv2_소수찾기 {
 		if(cnt>0) {
 			if(res[0]=='0') return;//맨 앞에 0 
 			
-			//소수 이어 붙이기
+			//수 이어 붙이기
 			StringBuilder sb = new StringBuilder();
 			for (int i = 0; i < cnt; i++) {
 				sb.append(res[i]);
 			}
 
-			//만들어진 소수 makeNum
+			//만들어진 수 makeNum
 			int makeNum = Integer.parseInt(sb.toString()); 
 			
 			//hashSet을 이용해 중복검사 후 소수이면 count++
