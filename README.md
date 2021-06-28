@@ -261,6 +261,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | 자료구조 | silver5 |
 | BOJ | 12019 | [Yonsei TOTO](https://www.acmicpc.net/problem/12018) | 자료구조 | silver3 |
 
+
 ### 🚩 week 17
 | Type | 문제 |  유형 | lank |
 | -- | -- |--|--|
@@ -270,3 +271,14 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Programmers | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 완탐 | level1 |
 | Programmers | [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 완탐 | level2 |
 | Programmers | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | 완탐 | level2 |
+
+
+### 🚩 week 18
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+| Programmers | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | DFS/BFS | level2 |
+| Programmers | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | DFS/BFS | level3 |
+| Programmers | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | DFS/BFS | level3 |
+| Programmers | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | DFS/BFS | level3 |
+| Programmers | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | 이분탐색 | level3 |
+| Programmers | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | 이분탐색 | level4 |
