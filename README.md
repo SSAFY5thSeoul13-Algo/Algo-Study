@@ -282,3 +282,13 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Programmers | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | DFS/BFS | level3 |
 | Programmers | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | 이분탐색 | level3 |
 | Programmers | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | 이분탐색 | level4 |
+
+### 🚩 week 19
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+| Programmers | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | 그래프 | level3 |
+| Programmers | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | 그래프 | level3 |
+| Programmers | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) | 그래프 | level5 |
+| Programmers | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 힙 | level2 |
+| Programmers | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | 힙 | level3 |
+| Programmers | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | 힙 | level3 |
