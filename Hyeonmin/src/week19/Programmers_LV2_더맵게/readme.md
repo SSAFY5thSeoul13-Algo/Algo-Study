@@ -1,4 +1,4 @@
-## Programmers Lv3 더 맵게
+## Programmers Lv2 더 맵게
 - 그래프
 - level3
 
