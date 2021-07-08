@@ -1,6 +1,6 @@
 ## Programmers Lv2 더 맵게
-- 그래프
-- level3
+- 힙
+- level2
 
 <br>
 
