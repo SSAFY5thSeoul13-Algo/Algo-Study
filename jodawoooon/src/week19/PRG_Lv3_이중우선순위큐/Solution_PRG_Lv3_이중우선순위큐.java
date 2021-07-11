@@ -24,19 +24,16 @@ public class Solution_PRG_Lv3_이중우선순위큐 {
 				
 			}else if(command.equals("D")){
 				
-				if(maxPQ.isEmpty()) continue;
+				if(maxPQ.isEmpty()) continue;				
+				//빈 큐에 데이터를 삭제하라는 연산이 주어질 경우, 해당 연산은 무시합니다.
+				
 				if(num==1) {
-					
-					//빈 큐에 데이터를 삭제하라는 연산이 주어질 경우, 해당 연산은 무시합니다.
-					
 					int tgt = maxPQ.poll();
 					minPQ.remove(tgt);
 					//큐에서 최댓값을 삭제합니다.
 				}
 
 				else if(num==-1) {
-					//빈 큐에 데이터를 삭제하라는 연산이 주어질 경우, 해당 연산은 무시합니다.
-					
 					int tgt = minPQ.poll();
 					maxPQ.remove(tgt);
 					//큐에서 최솟값을 삭제합니다.
