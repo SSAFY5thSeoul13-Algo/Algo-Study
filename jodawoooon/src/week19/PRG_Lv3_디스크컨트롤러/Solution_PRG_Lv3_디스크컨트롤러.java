@@ -15,6 +15,7 @@ public class Solution_PRG_Lv3_디스크컨트롤러 {
         int currTime = 0;
         int len = jobs.length;
         
+        //도착한 애 중에서 가장 짧은 소요시간
         Arrays.sort(jobs, new Comparator<int[]>() {
 
 			@Override
