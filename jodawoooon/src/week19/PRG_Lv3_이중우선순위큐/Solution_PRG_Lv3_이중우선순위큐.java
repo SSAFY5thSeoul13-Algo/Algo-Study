@@ -24,9 +24,9 @@ public class Solution_PRG_Lv3_이중우선순위큐 {
 				
 			}else if(command.equals("D")){
 				
-				
+				if(maxPQ.isEmpty()) continue;
 				if(num==1) {
-					if(maxPQ.isEmpty()) continue;
+					
 					//빈 큐에 데이터를 삭제하라는 연산이 주어질 경우, 해당 연산은 무시합니다.
 					
 					int tgt = maxPQ.poll();
@@ -35,7 +35,6 @@ public class Solution_PRG_Lv3_이중우선순위큐 {
 				}
 
 				else if(num==-1) {
-					if(minPQ.isEmpty()) continue;
 					//빈 큐에 데이터를 삭제하라는 연산이 주어질 경우, 해당 연산은 무시합니다.
 					
 					int tgt = minPQ.poll();
@@ -47,7 +46,7 @@ public class Solution_PRG_Lv3_이중우선순위큐 {
 		}
         
         //모든 연산을 처리한 후 큐가 비어있으면 [0,0] 비어있지 않으면 [최댓값, 최솟값]을 return 
-        if(!minPQ.isEmpty()) {
+        if(!maxPQ.isEmpty()) {
         	answer[0] = maxPQ.poll();
         	answer[1] = minPQ.poll();
         }
