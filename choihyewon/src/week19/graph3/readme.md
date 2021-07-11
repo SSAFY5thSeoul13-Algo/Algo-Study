@@ -107,7 +107,7 @@
         	
         		// 현재 방향의 간선과 반대 방향 간선 추가 
         		edge.add(next_edge);
-        		edge.add(new Edge(y,x,ny,nx,(d+4)%8));
+        		edge.add(new Edge(ny,nx,y,x,(d+4)%8));
         		y = ny;
         		x = nx;
         	}
@@ -226,7 +226,7 @@ public class 방의_개수 {
         	
         		// 현재 방향의 간선과 반대 방향 간선 추가 
         		edge.add(next_edge);
-        		edge.add(new Edge(y,x,ny,nx,(d+4)%8));
+        		edge.add(new Edge(ny,nx,y,x,(d+4)%8));
         		y = ny;
         		x = nx;
         	}
