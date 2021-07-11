@@ -108,6 +108,7 @@ public class 방의_개수 {
         		edge.add(new Edge(ny,nx,y,x,(d+4)%8));
         		y = ny;
         		x = nx;
+        		
         	}
         	
         }
