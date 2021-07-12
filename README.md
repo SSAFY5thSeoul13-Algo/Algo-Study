@@ -296,9 +296,9 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 ### 🚩 week 20
 | Type | 문제 |  유형 | lank |
 | -- | -- |--|--|
-| Programmers | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 해시 | level3 |
-| Programmers | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | 해시 | level3 |
-| Programmers | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 해시 | level5 |
-| Programmers | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | 해시 | level2 |
+| Programmers | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 해시 | level1 |
+| Programmers | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | 해시 | level2 |
+| Programmers | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 해시 | level2 |
+| Programmers | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | 해시 | level3 |
 | Programmers | [N 으로표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | DP | level3 |
 | Programmers | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | DP | level3 |
