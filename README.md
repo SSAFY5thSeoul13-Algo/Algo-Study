@@ -302,3 +302,13 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Programmers | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | 해시 | level3 |
 | Programmers | [N 으로표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | DP | level3 |
 | Programmers | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | DP | level3 |
+
+### 🚩 week 21
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+| Programmers | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 스택/큐 | level2 |
+| Programmers | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | 스택/큐 | level2 |
+| Programmers | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | 스택/큐 | level2 |
+| Programmers | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | 스택/큐 | level2 |
+| Programmers | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | DP | level3 |
+| Programmers | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) | DP | level4 |
