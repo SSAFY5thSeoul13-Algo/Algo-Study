@@ -6,7 +6,7 @@ public class Solution_PRG_Lv2_프린터 {
 	public static int solution(int[] priorities, int location) {
 		int answer = 0;
         
-        HashMap<Integer, Integer> docsMap = new HashMap<>(); //남은 문서의 우선순위별 개수 (TreeMap으로 정렬)
+        HashMap<Integer, Integer> docsMap = new HashMap<>(); //남은 문서의 우선순위별 개수
         Queue<Integer> printer = new LinkedList<>(); //프린터를 표현할 Queue
         
         for(int p : priorities) {
