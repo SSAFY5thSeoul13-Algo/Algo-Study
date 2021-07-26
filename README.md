@@ -312,3 +312,12 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Programmers | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | 스택/큐 | level2 |
 | Programmers | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | DP | level3 |
 | Programmers | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) | DP | level4 |
+
+### 🚩 week 22
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+| BOJ | [-](-) | 이분 탐색 | - |
+| BOJ | [-](-) | 이분 탐색 | - |
+| BOJ | [-](-) | 이분 탐색 | - |
+| BOJ | [-](-) | 이분 탐색 | - |
+
