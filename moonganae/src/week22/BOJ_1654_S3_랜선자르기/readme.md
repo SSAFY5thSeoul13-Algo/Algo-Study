@@ -1,6 +1,6 @@
 ## BAEKJOON SILVER 랜선 자르기
-- DP
-- Level 3
+- 이분탐색
+- Silver 3
 - https://www.acmicpc.net/problem/1654
 <br>
 
@@ -46,6 +46,7 @@
 <이분탐색 전 설정>
 
 먼저 최댓값을 찾기위해 랜선의 길이 배열을 정렬시킵니다.
+
 ```java
 for(int i=0; i<K; i++) {
 	line[i] = Integer.parseInt(br.readLine());
@@ -57,6 +58,7 @@ Arrays.sort(line);
 <이분탐색>
 
 자를 길이(mid)를 구한뒤, 만들 수 있는 갯수를 구한다.
+
 ```java
 long mid = (min+max) / 2;
 			
@@ -68,7 +70,8 @@ for(int len : line) {
 ```
 
 필요한 랜선의 수 N과 비교하여 많거나 같을 경우 max 값을 많을 경 min값을 갱신하며 구할 수 있느 최대 길이를 구한다.
-```
+
+```java
 // 내가 원하는 갯수라면
 if(N <= cnt) {
 	// 최솟값을 올린다
