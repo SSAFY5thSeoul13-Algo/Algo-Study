@@ -319,5 +319,5 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [랜선 자르기](https://www.acmicpc.net/problem/1654) | 이분 탐색 | silver3 |
 | BOJ | [나무 자르기](https://www.acmicpc.net/problem/2805) | 이분 탐색 | silver3 |
 | BOJ | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | 이분 탐색 | gold2 |
-| BOJ | [-](-) | 이분 탐색 | - |
+| BOJ | [공유기 설치](https://www.acmicpc.net/problem/2110) | 이분 탐색 | silver1 |
 
