@@ -1,7 +1,7 @@
-## BAEKJOON SILVER3 2805 나무자르기
+## BAEKJOON Gold2 12015 가장 긴 증가하는 부분 수열 2
 - 이분탐색
-- Silver 3
-- https://www.acmicpc.net/problem/2805
+- Gold 2
+- https://www.acmicpc.net/problem/12015
 <br>
 
 ### 문제설명
