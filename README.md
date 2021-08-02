@@ -321,3 +321,11 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | 이분 탐색 | gold2 |
 | BOJ | [공유기 설치](https://www.acmicpc.net/problem/2110) | 이분 탐색 | silver1 |
 
+### 🚩 week 23
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+| BOJ | [트리](https://www.acmicpc.net/problem/1068) | 트리 | gold5 |
+| BOJ | []() | 트리 |  |
+| BOJ | []() | 트리 |  |
+| BOJ | []() | 트리 |  |
+
