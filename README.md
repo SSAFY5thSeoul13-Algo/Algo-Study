@@ -327,5 +327,5 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [트리](https://www.acmicpc.net/problem/1068) | 트리 | gold5 |
 | BOJ | [전화번호 목록](https://www.acmicpc.net/problem/5052) | 트리 | gold4 |
 | BOJ | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | 트리 | silver1 |
-| BOJ | []() | 트리 |  |
+| BOJ | [사촌](https://www.acmicpc.net/problem/9489) | 트리 | gold4 |
 
