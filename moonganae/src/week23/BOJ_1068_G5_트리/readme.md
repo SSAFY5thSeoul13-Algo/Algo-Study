@@ -106,7 +106,7 @@ x		x
 #### 트리 만들기
 child 노드의 인덱스를 가진 Node 클래스를 선언하고, 생성합니다.
 
-```
+```java
 public static class Node {
 	List<Integer> childs = new ArrayList<>();
 }
@@ -122,7 +122,7 @@ for(int i=0; i<N; i++) {
 
 노드를 연결합니다. 이때, 루트가 아니면서, 삭제 인덱스가 아닐때만 부모노드에 연결합니다.
 
-```
+```java
 // 노드 연결
 for(int i=0; i<N; i++) {
 	int parent = Integer.parseInt(st.nextToken());
@@ -140,7 +140,7 @@ for(int i=0; i<N; i++) {
 #### 탐색하기
 DFS를 사용하여 Leaf 노드를 탐색합니다.
 
-```
+```java
 public static void searchLeaf(int idx) {
 	// Leaf 노드라면 갯수증가
 	if(nodes[idx].childs.size() == 0) {
