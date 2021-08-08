@@ -26,7 +26,7 @@ public class Main_BOJ_5639_S1_이진검색트리 {
 	static int N;
 	public static void main(String[] args) throws Exception {
 		
-		//System.setIn(new FileInputStream("5639input.txt"));
+		System.setIn(new FileInputStream("5639input.txt"));
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		preTree = new ArrayList<>();
@@ -34,7 +34,7 @@ public class Main_BOJ_5639_S1_이진검색트리 {
 		//트리를 전위 순회한 결과가 주어진다.
 		 while(true) {
 			 String input = br.readLine();
-			 if(input == null || input.length()==0 ) {
+			 if(input == null ) {
 				 break;
 			 }
 			 preTree.add(Integer.parseInt(input));
