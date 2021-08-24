@@ -333,7 +333,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Type | 문제 |  유형 | lank |
 | -- | -- |--|--|
 | BOJ | [문자 해독](https://www.acmicpc.net/problem/1593) | 슬라이딩 윈도우 | gold4 |
-| BOJ | [N번째 큰 수](https://www.acmicpc.net/problem/2096) | 슬라이딩 윈도우 | gold4 |
-| BOJ | [내려가기](https://www.acmicpc.net/problem/2075) | 슬라이딩 윈도우 | gold5 |
+| BOJ | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | 슬라이딩 윈도우 | gold4 |
+| BOJ | [내려가기](https://www.acmicpc.net/problem/2096) | 슬라이딩 윈도우 | gold5 |
 | BOJ | [-](-) | 슬라이딩 윈도우 | - |
 
