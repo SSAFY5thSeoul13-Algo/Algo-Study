@@ -40,8 +40,8 @@ public class Main_BOJ_2428_S3_표절 {
 
 
 		
-		/* 1. 먼저 files를 오름차순 정렬한다. 
-		/* 첫 번째 조건 : size(Fi) ≤ size(Fj) */
+		/* 1. 먼저 files를 오름차순 정렬한다. */ 
+
 		Arrays.sort(files);
 		
 		
