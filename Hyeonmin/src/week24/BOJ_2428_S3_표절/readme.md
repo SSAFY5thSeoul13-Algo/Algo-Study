@@ -20,7 +20,7 @@ https://www.acmicpc.net/problem/2428
 #### 출력
 첫째 줄에 검사해야 하는 파일의 개수를 출력한다.
 
-###  💡 풀이
+###  💡 풀이1
 
 변수
 `int[] sizes` : 각 파일의 사이즈
@@ -170,7 +170,114 @@ public class BOJ_2428_S3_표절 {
 <br>
 
 
-
 메모리|시간
 --|--
 34376 KB|420 ms
+
+<br>
+
+###  💡 풀이2
+
+변수
+`int[] sizes` : 각 파일의 사이즈
+
+
+<br>
+
+각 파일의 크기를 저장한 배열을 정렬한다
+
+```java
+		N = Integer.parseInt(br.readLine());
+		
+		sizes = new int[N];
+		
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		
+		//각 파일 사이즈
+		for (int i = 0; i < N; i++) {
+			sizes[i] = Integer.parseInt(st.nextToken());
+		}
+		
+		//정렬
+		Arrays.sort(sizes);
+```
+
+현재 파일을 기준으로 이후 파일들 중에 자신과 비교를 해야할 파일의 마지막 인덱스 `idx`를 구한다
+
+구한 `idx`에서 자신을 제외한 `idx-1`에서 연재 인덱스 `i`를 뺀 값을 `result`에 저장한다 
+
+```java
+		int idx = 0;
+		
+		for (int i = 0; i <N; i++) {
+			
+			while(idx < N && sizes[i] >= 0.9*sizes[idx]) {
+				idx++;
+			}
+			
+			result += (idx-1) - i;
+		}
+```
+
+
+
+<br><br>
+
+###  💡 소스코드
+```java
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.StringTokenizer;
+
+public class BOJ_2428_S3_표절_풀이2 {
+	static int N;
+	static int[] sizes;
+	static long result;
+
+	public static void main(String[] args) throws Exception{
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		
+		N = Integer.parseInt(br.readLine());
+		
+		sizes = new int[N];
+		
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		
+		//각 파일 사이즈
+		for (int i = 0; i < N; i++) {
+			sizes[i] = Integer.parseInt(st.nextToken());
+		}
+		
+		//정렬
+		Arrays.sort(sizes);
+		
+		int idx = 0;
+		
+		for (int i = 0; i <N; i++) {
+			
+			while(idx < N && sizes[i] >= 0.9*sizes[idx]) {
+				idx++;
+			}
+			
+			result += (idx-1) - i;
+		}
+		
+		System.out.println(result);
+		
+	}
+}
+
+
+
+
+```
+
+
+<br>
+
+
+
+메모리|시간
+--|--
+33948 KB|372 ms
