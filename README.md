@@ -337,3 +337,11 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [내려가기](https://www.acmicpc.net/problem/2096) | 슬라이딩 윈도우 | gold4 |
 | BOJ | [표절](https://www.acmicpc.net/problem/2428) | 슬라이딩 윈도우 | silver3 |
 
+### 🚩 week 25
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+| BOJ | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | MST | gold4 |
+| BOJ | [도시 분할 계획](https://www.acmicpc.net/problem/1647) | MST | gold4 |
+| BOJ | []() | MST |  |
+| BOJ | []() | MST |  |
+
