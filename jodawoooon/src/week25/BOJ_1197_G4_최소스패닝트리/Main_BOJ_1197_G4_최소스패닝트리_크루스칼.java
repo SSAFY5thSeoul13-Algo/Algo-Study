@@ -4,7 +4,10 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.PriorityQueue;
 import java.util.StringTokenizer;
+
+import week25.BOJ_1197_G4_최소스패닝트리.Main_BOJ_1197_G4_최소스패닝트리_프림.Node;
 
 
 /***
@@ -107,6 +110,9 @@ public class Main_BOJ_1197_G4_최소스패닝트리_크루스칼 {
 			parents[i] = i;
 		}
 	}
+	
+	
+
 	
 
 }
