@@ -343,5 +343,5 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | MST | gold4 |
 | BOJ | [도시 분할 계획](https://www.acmicpc.net/problem/1647) | MST | gold4 |
 | BOJ | [행성 연결](https://www.acmicpc.net/problem/16398) | MST | gold4 |
-| BOJ | []() | MST |  |
+| BOJ | [네트워크 연결](https://www.acmicpc.net/problem/1922) | MST | gold4 |
 
