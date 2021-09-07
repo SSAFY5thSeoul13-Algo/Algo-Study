@@ -345,7 +345,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [행성 연결](https://www.acmicpc.net/problem/16398) | MST | gold4 |
 | BOJ | [네트워크 연결](https://www.acmicpc.net/problem/1922) | MST | gold4 |
 
-### 🚩 week 25
+### 🚩 week 26
 | Type | 문제 |  유형 | lank |
 | -- | -- |--|--|
 | Programmers | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) | 최단경로 | - |
