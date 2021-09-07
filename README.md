@@ -350,6 +350,6 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | -- | -- |--|--|
 | Programmers | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) | 최단경로 | - |
 | BOJ | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | 최단경로 | gold4 |
-| BOJ | []() | 최단경로 | - |
+| BOJ | [해킹](https://www.acmicpc.net/problem/10282) | 다익스트라 | gold4 |
 | BOJ | []() | 최단경로 | - |
 
