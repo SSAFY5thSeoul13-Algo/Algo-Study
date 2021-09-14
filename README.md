@@ -353,3 +353,11 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Programmers | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | 최단경로 | Lv3 |
 | Programmers | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978?language=java) | 최단경로 | - |
 
+### 🚩 week 27
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+|  | []() |  | - |
+|  | []() |  |  |
+|  | []() |  |  |
+|  | []() |  | - |
+
