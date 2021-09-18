@@ -359,5 +359,5 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [마법사상어와 비바라기](https://www.acmicpc.net/problem/21610) | 구현 | gold5 |
 | BOJ | [뱀](https://www.acmicpc.net/problem/3190) | 구현 | gold5 |
 | BOJ | [게리맨더링 2](https://www.acmicpc.net/problem/17779) | 구현 | gold4 |
-| BOJ | []() |  | - |
+| BOJ | [통나무 옮기기](https://www.acmicpc.net/problem/1938) | 구현 |  |
 
