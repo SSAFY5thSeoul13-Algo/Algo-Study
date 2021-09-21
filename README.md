@@ -361,3 +361,11 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [게리맨더링 2](https://www.acmicpc.net/problem/17779) | 구현 | gold4 |
 | BOJ | [통나무 옮기기](https://www.acmicpc.net/problem/1938) | 구현 |  |
 
+
+### 🚩 week 28
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+| BOJ | [감소하는 수](https://www.acmicpc.net/problem/1038) | 백트래킹 | gold5 |
+| BOJ | []() |  |  |
+| BOJ | []() |  |  |
+| BOJ | []() |  |  |
