@@ -366,6 +366,6 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Type | 문제 |  유형 | lank |
 | -- | -- |--|--|
 | BOJ | [감소하는 수](https://www.acmicpc.net/problem/1038) | 백트래킹 | gold5 |
-| BOJ | []() |  |  |
-| BOJ | []() |  |  |
+| BOJ | [좋은수열](https://www.acmicpc.net/problem/2661) | 백트래킹 | gold4 |
+| BOJ | [합 구하기](https://www.acmicpc.net/problem/2661) | 누적합 | silver3 |
 | BOJ | []() |  |  |
