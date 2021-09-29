@@ -370,7 +370,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [합 구하기](https://www.acmicpc.net/problem/11441) | 누적합 | silver3 |
 | BOJ | [나머지 합](https://www.acmicpc.net/problem/10986) | 누적합 | gold3 |
 
-### 🚩 week 28
+### 🚩 week 29
 | Type | 문제 |  유형 | lank |
 | -- | -- |--|--|
 | BOJ | []() |  |  |
