@@ -368,4 +368,12 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [감소하는 수](https://www.acmicpc.net/problem/1038) | 백트래킹 | gold5 |
 | BOJ | [좋은수열](https://www.acmicpc.net/problem/2661) | 백트래킹 | gold4 |
 | BOJ | [합 구하기](https://www.acmicpc.net/problem/11441) | 누적합 | silver3 |
-| BOJ | [나머지 합](https://www.acmicpc.net/problem/10986) | 누적합 |  |
+| BOJ | [나머지 합](https://www.acmicpc.net/problem/10986) | 누적합 | gold3 |
+
+### 🚩 week 29
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+| BOJ | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) |  |  |
+| BOJ | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | BFS | gold4 |
+| BOJ | [색종이 만들기](https://www.acmicpc.net/problem/2630) | 분할정복 | silver3 |
+| BOJ | [캠프가는 영식](https://www.acmicpc.net/problem/1590) | 브루트포스 | silver1 |
