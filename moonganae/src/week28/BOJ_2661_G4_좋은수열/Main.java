@@ -1,4 +1,4 @@
-package week28_BOJ_2661_G4_좋은수열;
+package week28.BOJ_2661_G4_좋은수열;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

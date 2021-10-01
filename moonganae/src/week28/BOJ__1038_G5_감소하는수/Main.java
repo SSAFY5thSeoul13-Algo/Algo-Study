@@ -1,4 +1,4 @@
-package week28_BOJ__1038_G5_감소하는수;
+package week28.BOJ__1038_G5_감소하는수;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
