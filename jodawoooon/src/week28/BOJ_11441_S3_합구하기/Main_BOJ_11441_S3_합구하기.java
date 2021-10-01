@@ -21,8 +21,9 @@ public class Main_BOJ_11441_S3_합구하기 {
 		StringTokenizer st;
 		
 		N = Integer.parseInt(br.readLine());
-		
+
 		arr = new int[N+1];	//누적합
+
 
 		st = new StringTokenizer(br.readLine());
 		
