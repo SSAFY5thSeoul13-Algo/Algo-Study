@@ -1,4 +1,4 @@
-package week28_BOJ__11441_S3_합구하기;
+package week28.BOJ__11441_S3_합구하기;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
