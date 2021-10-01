@@ -373,7 +373,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 ### 🚩 week 29
 | Type | 문제 |  유형 | lank |
 | -- | -- |--|--|
-| BOJ | []() |  |  |
+| BOJ | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) |  |  |
 | BOJ | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | BFS | gold4 |
 | BOJ | [색종이 만들기](https://www.acmicpc.net/problem/2630) | 분할정복 | silver3 |
-| BOJ | []() |  |  |
+| BOJ | [캠프가는 영식](https://www.acmicpc.net/problem/1590) | 브루트포스 | silver1 |
