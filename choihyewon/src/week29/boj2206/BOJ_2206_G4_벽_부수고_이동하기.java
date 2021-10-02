@@ -69,7 +69,7 @@ public class BOJ_2206_G4_벽_부수고_이동하기 {
 					continue;
 				
 				// 이미 벽을 부순곳이라면 
-				if(visited[nr][nc]==1) continue;
+				if(visited[nr][nc]<=bCnt) continue;
 			
 				// 이동이 가능하다면 이동거리만 늘려서 저장하면 된다 
 				if(arr[nr][nc]==0) {
