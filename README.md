@@ -377,3 +377,11 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | BFS | gold4 |
 | BOJ | [색종이 만들기](https://www.acmicpc.net/problem/2630) | 분할정복 | silver3 |
 | BOJ | [캠프가는 영식](https://www.acmicpc.net/problem/1590) | 브루트포스 | silver1 |
+
+### 🚩 week 30
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+| BOJ | []() |  |  |
+| BOJ | []() |  |  |
+| BOJ | []() |  |  |
+| BOJ | []() |  |  |
