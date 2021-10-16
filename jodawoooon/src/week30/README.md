@@ -112,69 +112,94 @@ https://www.acmicpc.net/problem/14500
 ###  💬 소스코드
 
 ```java
-package week29.BOJ_2630_S3_색종이만들기;
+package week30;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_BOJ_2630_S3_색종이만들기 {
-	static int N, map[][], white, blue;
+public class Main_BOJ_14500_G5_테트로미노 {
+	static int N, M, map[][], max;
+	static int[] dx = {-1,1,0,0};
+	static int[] dy = {0,0,-1,1};
+	static boolean[][] visited;
 	public static void main(String[] args) throws Exception {
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		N = Integer.parseInt(br.readLine());
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		N = Integer.parseInt(st.nextToken());
+		M = Integer.parseInt(st.nextToken());
 		
-		StringTokenizer st;
-		map = new int[N][N];
-		
-		for(int i = 0; i < N ; i++) {
+		map = new int[N][M];
+		visited = new boolean[N][M];
+		for(int i = 0 ; i < N; i++) {
 			st = new StringTokenizer(br.readLine());
-			for(int j =0 ; j< N; j++) {
+			for (int j = 0; j < M; j++) {
 				map[i][j] = Integer.parseInt(st.nextToken());
 			}
 		}
-		
-		search(0, 0, N);
-		System.out.println(white);
-		System.out.println(blue);
-	}
 	
-	private static void search(int r, int c, int size) {
 		
-		if(size==1) { 
-            //기저조건 1. 하나의 정사각형 칸이 되어 더 이상 자를 수 없다
-			if(map[r][c]==0) white++;
-			else blue++;
+		for(int i = 0 ; i < N; i++) {
+			for (int j = 0; j < M; j++) {
+				visited[i][j] = true;
+				dfs(i,j,1,map[i][j]);
+				find(i,j);
+				visited[i][j] = false;
+			}
+		}
+		
+		System.out.println(max);
+	}
+
+	private static void dfs(int x, int y, int cnt, int sum) {
+		if(cnt==4) {
+			max = Math.max(sum, max);
 			return;
 		}
 		
-		if(isSame(r,c, map[r][c],size)){ 
-            //기저조건 2. 잘라진 종이가 모두 하얀색 또는 모두 파란색으로 칠해져있다.
-			if(map[r][c]==0) white++;
-			else blue++;
-            return;
+		for(int d=0; d<4; d++) {
+			int nx = x + dx[d];
+			int ny = y + dy[d];
+			
+			if(!isIn(nx,ny)) continue;
+			if(visited[nx][ny]) continue;
+			
+			visited[nx][ny] = true;
+			dfs(nx,ny,cnt+1,sum+map[nx][ny]);
+			visited[nx][ny] = false;
 		}
-        
-        //같은 색이 아니라면 더 자른다
-		search(r,c,size/2);
-		search(r+size/2,c,size/2);
-		search(r,c+size/2,size/2);
-		search(r+size/2,c+size/2,size/2);
-
-		
-		
 	}
 
-	private static boolean isSame(int r, int c, int color, int size) {
-        //색종이가 모두 같은 색으로 칠해져 있는지 체크
-		for(int i = r ; i < r + size ; i++) {
-			for(int j = c ; j < c + size ; j++) {
-				if(color!=map[i][j]) return false;
-			}
+	private static void find(int i, int j) {
+		//ㅏ
+		if(i-1>=0&&i+1<N&&j+1<M) {
+			int sum = map[i][j] + map[i-1][j] + map[i+1][j] + map[i][j+1];
+			max = Math.max(sum, max);
 		}
+		//ㅓ
+		if(i-1>=0&&i+1<N&&j-1>=0) {
+			int sum = map[i][j] + map[i-1][j] + map[i+1][j] + map[i][j-1];
+			max = Math.max(sum, max);
+		}
+		//ㅗ
+		if(i-1>=0&&j-1>=0&j+1<M) {
+			int sum = map[i][j] + map[i-1][j] + map[i][j-1] + map[i][j+1];
+			max = Math.max(sum, max);
+		}
+		//ㅜ
+		if(i+1<N&&j-1>=0&j+1<M) {
+			int sum = map[i][j] + map[i+1][j] + map[i][j-1] + map[i][j+1];
+			max = Math.max(sum, max);
+		}
+	}
+
+	
+	private static boolean isIn(int nx, int ny) {
+		if(nx<0||ny<0||nx>=N||ny>=M) return false;
 		return true;
 	}
+
 }
 
 ```
