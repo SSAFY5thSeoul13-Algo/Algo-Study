@@ -385,3 +385,11 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [등차수열의 개수](https://www.acmicpc.net/problem/13558) | 수학 | gold2 |
 | BOJ | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | 시뮬 | gold4 |
 | BOJ | [테트로미노](https://www.acmicpc.net/problem/14500) | 구현,브루트포스 | gold5 |
+
+### 🚩 week 31
+| Type | 문제 |  유형 | lank |
+| -- | -- |--|--|
+| BOJ | []() |  |  |
+| BOJ | []() |  |  |
+| BOJ | []() |  |  |
+| BOJ | []() |  |  |
