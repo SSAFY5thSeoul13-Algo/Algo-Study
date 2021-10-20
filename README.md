@@ -105,7 +105,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 ## 📌 Solved Problems
 ### 🚩 week 1
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 13460 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) | BFS | gold2 |
 | BOJ | 20055 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | 시뮬 | silver1 |
@@ -115,7 +115,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩 week 2
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 2527 | [직사각형](https://www.acmicpc.net/problem/2527) | 기하학 | silver1 |
 | BOJ | 2304 | [창고 다각형](https://www.acmicpc.net/problem/2304) | 브루트포스| silver2 |
@@ -126,7 +126,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩 week 3
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 17281 | [⚾](https://www.acmicpc.net/problem/17281) | 브루트포스| gold4 |
 | BOJ | 16953 | [A->B](https://www.acmicpc.net/problem/16953) | DFS | silver1 |
@@ -136,7 +136,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩  week 4
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 16637 | [괄호 추가하기](https://www.acmicpc.net/problem/16637) | DFS| gold3 |
 | BOJ | 17070 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | DFS | gold5 |
@@ -145,7 +145,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩  week 5
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 14889 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | comb | silver3 |
 | BOJ | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | 시뮬| gold4 |
@@ -154,7 +154,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩 week 6
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 12763 | [지각하면 안 돼](https://www.acmicpc.net/problem/12763) | 플로이드 와샬 | gold2 |
 | BOJ | 6497 | [전력난](https://www.acmicpc.net/problem/6497) | 다익스트라 | gold4 |
@@ -163,7 +163,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩 week 7
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 17071 | [숨바꼭질 5](https://www.acmicpc.net/problem/17071) | BFS | gold1 |
 | BOJ | 1242 | [소풍](https://www.acmicpc.net/problem/1242) | 수학 | gold2 |
@@ -172,7 +172,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩 week 8
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 16197 | [두 동전](https://www.acmicpc.net/problem/16197) | BFS | gold4 |
 | BOJ | 7579 | [앱](https://www.acmicpc.net/problem/7579) | DP | gold3 |
@@ -182,7 +182,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩 week 9
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 2234 | [성곽](https://www.acmicpc.net/problem/2234) | BFS | gold4 |
 | BOJ | 14938 | [서강그라운드](https://www.acmicpc.net/problem/14938) | 그래프 | gold4 |
@@ -190,7 +190,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 2565 | [전깃줄](https://www.acmicpc.net/problem/2565) | DP | gold3 |
 
 ### 🚩 week 10
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 1030 | [프렉탈 평면](https://www.acmicpc.net/problem/1030) | 분할 정복 | gold3 |
 | BOJ | 8972 | [미친 아두이노](https://www.acmicpc.net/problem/8972) | 시뮬 | gold4 |
@@ -198,7 +198,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 14719 | [빗물](https://www.acmicpc.net/problem/14719) | 구현 | gold5 |
 
 ### 🚩 week 11
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 1915 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | dp | silver1 |
 | BOJ | 13335 | [트럭](https://www.acmicpc.net/problem/13335) | 시뮬 | silver1 |
@@ -206,7 +206,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 6087 | [레이저통신](https://www.acmicpc.net/problem/6087) | bfs | gold4 |
 
 ### 🚩 week 12
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 12608 | [상어 초등학교](https://www.acmicpc.net/problem/12608) | 시뮬 | silver1 |
 | BOJ | 10836 | [여왕벌](https://www.acmicpc.net/problem/10836) | 시뮬 | gold4 |
@@ -214,7 +214,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | 시뮬 | gold5 |
 
 ### 🚩 week 13
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 14499 | [주사위 굴리기](https://www.acmicpc.net/problem/14499) | 시뮬 | gold5 |
 | BOJ | 15787 | [기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) | 비트마스킹 | silver2 |
@@ -222,14 +222,14 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | 2878 | [캔디캔디](https://www.acmicpc.net/problem/2878) | 그리디 | gold2 |
 
 ### 🚩 week 14
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 5014 | [스타트링크](https://www.acmicpc.net/problem/5014) | bfs | gold5 |
 | BOJ | 9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | 문자열 | gold4 |
 
 
 ### 🚩 week 15 
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 1051 | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | 구현 | silver3 |
 | BOJ | 1292 | [쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) | 구현 | silver5 |
@@ -246,7 +246,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩 week 16
-| Type | 문제 | 제목 | 유형 | lank |
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 10546 | [배부른 마라토너](https://www.acmicpc.net/problem/10546) | 자료구조 | silver4 |
 | BOJ | 1302 | [베스트셀러](https://www.acmicpc.net/problem/1302) | 자료구조 | silver4 |
@@ -263,7 +263,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩 week 17
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | Programmers | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 정렬 | level1 |
 | Programmers | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 정렬 | level2 |
@@ -274,7 +274,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩 week 18
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | Programmers | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | DFS/BFS | level2 |
 | Programmers | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | DFS/BFS | level3 |
@@ -284,7 +284,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Programmers | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | 이분탐색 | level4 |
 
 ### 🚩 week 19
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | Programmers | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | 그래프 | level3 |
 | Programmers | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | 그래프 | level3 |
@@ -294,7 +294,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Programmers | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | 힙 | level3 |
 
 ### 🚩 week 20
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | Programmers | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 해시 | level1 |
 | Programmers | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | 해시 | level2 |
@@ -304,7 +304,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Programmers | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | DP | level3 |
 
 ### 🚩 week 21
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | Programmers | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 스택/큐 | level2 |
 | Programmers | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | 스택/큐 | level2 |
@@ -314,7 +314,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Programmers | [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897) | DP | level4 |
 
 ### 🚩 week 22
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | BOJ | [랜선 자르기](https://www.acmicpc.net/problem/1654) | 이분 탐색 | silver3 |
 | BOJ | [나무 자르기](https://www.acmicpc.net/problem/2805) | 이분 탐색 | silver3 |
@@ -322,7 +322,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [공유기 설치](https://www.acmicpc.net/problem/2110) | 이분 탐색 | silver1 |
 
 ### 🚩 week 23
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | BOJ | [트리](https://www.acmicpc.net/problem/1068) | 트리 | gold5 |
 | BOJ | [전화번호 목록](https://www.acmicpc.net/problem/5052) | 트리 | gold4 |
@@ -330,7 +330,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [사촌](https://www.acmicpc.net/problem/9489) | 트리 | gold4 |
 
 ### 🚩 week 24
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | BOJ | [문자 해독](https://www.acmicpc.net/problem/1593) | 슬라이딩 윈도우 | gold4 |
 | BOJ | [N번째 큰 수](https://www.acmicpc.net/problem/2075) | 슬라이딩 윈도우 | gold5 |
@@ -338,7 +338,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [표절](https://www.acmicpc.net/problem/2428) | 슬라이딩 윈도우 | silver3 |
 
 ### 🚩 week 25
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | BOJ | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | MST | gold4 |
 | BOJ | [도시 분할 계획](https://www.acmicpc.net/problem/1647) | MST | gold4 |
@@ -346,7 +346,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [네트워크 연결](https://www.acmicpc.net/problem/1922) | MST | gold4 |
 
 ### 🚩 week 26
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | Programmers | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) | 최단경로 | - |
 | BOJ | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | 최단경로 | gold4 |
@@ -354,7 +354,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Programmers | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978?language=java) | 최단경로 | - |
 
 ### 🚩 week 27
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | BOJ | [마법사상어와 비바라기](https://www.acmicpc.net/problem/21610) | 구현 | gold5 |
 | BOJ | [뱀](https://www.acmicpc.net/problem/3190) | 구현 | gold5 |
@@ -363,7 +363,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 
 
 ### 🚩 week 28
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | BOJ | [감소하는 수](https://www.acmicpc.net/problem/1038) | 백트래킹 | gold5 |
 | BOJ | [좋은수열](https://www.acmicpc.net/problem/2661) | 백트래킹 | gold4 |
@@ -371,7 +371,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [나머지 합](https://www.acmicpc.net/problem/10986) | 누적합 | gold3 |
 
 ### 🚩 week 29
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | BOJ | [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) |  |  |
 | BOJ | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | BFS | gold4 |
@@ -379,7 +379,7 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [캠프가는 영식](https://www.acmicpc.net/problem/1590) | 브루트포스 | silver1 |
 
 ### 🚩 week 30
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | BOJ | [어른 상어](https://www.acmicpc.net/problem/19237) | 시뮬 | gold3 |
 | BOJ | [등차수열의 개수](https://www.acmicpc.net/problem/13558) | 수학 | gold2 |
@@ -387,9 +387,9 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [테트로미노](https://www.acmicpc.net/problem/14500) | 구현,브루트포스 | gold5 |
 
 ### 🚩 week 31
-| Type | 문제 |  유형 | lank |
+| Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
-| BOJ | []() |  |  |
-| BOJ | []() |  |  |
+| BOJ | [틱택토](https://www.acmicpc.net/problem/7682) | 백트래킹 | gold5 |
+| BOJ | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | 정렬,시 | gold4 |
 | BOJ | []() |  |  |
 | BOJ | []() |  |  |
