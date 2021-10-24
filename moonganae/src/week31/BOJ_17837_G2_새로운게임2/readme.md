@@ -255,6 +255,10 @@ if(map[my][mx].size()> 3) return true;
 return false;
 ```
 
+### 막힌점
+1. Deque에서 poll(), pop() 메서드가 같은 역할을 하는지 몰랐음.
+   1. pop대신 pollLast() 메서드를 사용하여 해결
+
 ### 소스코드 1
 ```java
 package week31.BOJ_17837_G2_새로운게임2;
