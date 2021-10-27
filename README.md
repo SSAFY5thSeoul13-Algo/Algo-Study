@@ -393,3 +393,11 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) | 정렬,시뮬 | gold4 |
 | BOJ | [미친 로봇](https://www.acmicpc.net/problem/1405) | 백트래킹 | gold5 |
 | BOJ | [새로운 게임 2](https://www.acmicpc.net/problem/17837) | 시뮬레이션 | gold2 |
+
+### 🚩 week 32
+| Type | 문제 |  유형 | rank |
+| -- | -- |--|--|
+| BOJ | [청소년 상어](https://www.acmicpc.net/problem/19236) | 백트래킹 | gold2 |
+| BOJ | []() |  |  |
+| BOJ | []() |  |  |
+| BOJ | []() |  |  |
