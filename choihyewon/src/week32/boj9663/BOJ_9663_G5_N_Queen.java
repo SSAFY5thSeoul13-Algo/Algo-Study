@@ -21,24 +21,24 @@ public class BOJ_9663_G5_N_Queen {
 		
 
 	}
-	private static void backTracking(int row) {
-		if(row==N) {
+	private static void backTracking(int col) {
+		if(col==N) {
 			cnt++;
 			return;
 		}
 		
 		for(int i=0; i<N; i++) {
-			arr[row] = i;
-			if(isPossible(row)) {
-				backTracking(row+1);
+			arr[col] = i;
+			if(isPossible(col)) {
+				backTracking(col+1);
 			}
 		}
 		
 		
 	}
-	private static boolean isPossible(int row) {
-		for(int i=0; i<row; i++) {
-			if(arr[row] == arr[i] || Math.abs(i-row) == Math.abs(arr[i]-arr[row])) {
+	private static boolean isPossible(int col) {
+		for(int i=0; i<col; i++) {
+			if(arr[col] == arr[i] || Math.abs(i-col) == Math.abs(arr[i]-arr[col])) {
 				return false;
 			}
 		}
