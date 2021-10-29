@@ -398,6 +398,6 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | Type | 문제 |  유형 | rank |
 | -- | -- |--|--|
 | BOJ | [청소년 상어](https://www.acmicpc.net/problem/19236) | 백트래킹 | gold2 |
-| BOJ | []() |  |  |
-| BOJ | []() |  |  |
-| BOJ | []() |  |  |
+| BOJ | [N-Queen](https://www.acmicpc.net/problem/9663) | 백트래킹 | gold5 |
+| BOJ | [운동](https://www.acmicpc.net/problem/1956) | 플로이드–와샬 | gold4 |
+| BOJ | [회의준비 ](https://www.acmicpc.net/problem/2610) | 플로이드–와샬 | gold2 |
