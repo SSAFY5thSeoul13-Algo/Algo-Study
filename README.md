@@ -401,3 +401,11 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [N-Queen](https://www.acmicpc.net/problem/9663) | 백트래킹 | gold5 |
 | BOJ | [운동](https://www.acmicpc.net/problem/1956) | 플로이드–와샬 | gold4 |
 | BOJ | [회의준비 ](https://www.acmicpc.net/problem/2610) | 플로이드–와샬 | gold2 |
+
+### 🚩 week 33
+| Type | 문제 |  유형 | rank |
+| -- | -- |--|--|
+| BOJ | [트리](https://www.acmicpc.net/problem/4256) | 트리,분할정복 | gold3 |
+| BOJ | [저울](https://www.acmicpc.net/problem/10159) | 플로이드-와샬 | gold3 |
+| BOJ | [아기 상어2](https://www.acmicpc.net/problem/17086) | BFS | silver2 |
+| BOJ | [감시 피하기](https://www.acmicpc.net/problem/18428) | 백트래킹 | silver1 |
