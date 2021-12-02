@@ -409,3 +409,11 @@ SSAFY 5기 서울 13반 알고리즘 스터디 기록
 | BOJ | [저울](https://www.acmicpc.net/problem/10159) | 플로이드-와샬 | gold3 |
 | BOJ | [아기 상어2](https://www.acmicpc.net/problem/17086) | BFS | silver2 |
 | BOJ | [감시 피하기](https://www.acmicpc.net/problem/18428) | 백트래킹 | silver1 |
+
+### 🚩 week 34
+| Type | 문제 |  유형 | rank |
+| -- | -- |--|--|
+| Programmers | [헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487) | SQL | LV3 |
+| Programmers | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | - | LV2 |
+| Programmers | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | - | LV1 |
+| Programmers | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | - | LV3 |
