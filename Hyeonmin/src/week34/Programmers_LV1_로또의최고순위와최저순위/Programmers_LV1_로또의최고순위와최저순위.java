@@ -36,5 +36,6 @@ class Solution {
         int[] answer = {rank[sameCount+zeroCount], rank[sameCount]};
         
         return answer;
+        
     }
 }
